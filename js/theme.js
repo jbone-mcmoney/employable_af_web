@@ -1,7 +1,7 @@
 // js Document
 
     // Created on   : 27/07/2022.
-    // Theme Name   : Jano - Creative Multipurpose Bootstrap 5 Template
+    // Theme Name   : Employable AF, LLC - Creative Multipurpose Bootstrap 5 Template
     // Version      : 1.0.
     // Developed by : (me@heloshape.com) / (www.me.heloshape.com)
 
