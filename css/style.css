@@ -8238,3 +8238,6 @@ body .btn-twentySix:hover:after {top: 0; left: 0;}
 .form-style-five ::placeholder {color: #fff;}
 .form-style-five [class*="btn-"] {font-size: 14px; letter-spacing: 0.88px;}
 .form-style-five [class*="btn-"]:hover {background: var(--prime-eight); color: #000;}
+
+/*Custom Styles*/
+.feelin_good { margin-bottom:25px;}
